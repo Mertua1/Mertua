@@ -95,7 +95,6 @@
 <br>
 
 -----
-
 <br>
 <br>
 
@@ -106,8 +105,8 @@
 <ul>
 <br>
 <li>
-<a href="https://telegram/mertuateam" target="_blank">
-<img src="https://img.shields.io/badge/telegram:  mertuateam-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://t.me/mertuateam" target="_blank">
+<img src="https://img.shields.io/badge/Telegram:  mertuateam-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
